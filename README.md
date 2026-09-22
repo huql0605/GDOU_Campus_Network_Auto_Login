@@ -1,0 +1,2 @@
+# GDOU_Campus_Network_Auto_Login
+广东海洋大学GDOU校园网自动登录脚本
